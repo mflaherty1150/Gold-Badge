@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\_02_Operators.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\_02_Operators.pdb
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\obj\Debug\_02_Operators.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\obj\Debug\_02_Operators.csproj.CopyComplete
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\obj\Debug\_02_Operators.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_02_Operators\obj\Debug\_02_Operators.pdb

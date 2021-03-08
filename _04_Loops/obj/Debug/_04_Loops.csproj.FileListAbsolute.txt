@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\_04_Loops.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\_04_Loops.pdb
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\obj\Debug\_04_Loops.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\obj\Debug\_04_Loops.csproj.CopyComplete
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\obj\Debug\_04_Loops.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_04_Loops\obj\Debug\_04_Loops.pdb

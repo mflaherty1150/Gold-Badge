@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\_03_Conditionals.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\_03_Conditionals.pdb
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\obj\Debug\_03_Conditionals.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\obj\Debug\_03_Conditionals.csproj.CopyComplete
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\obj\Debug\_03_Conditionals.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_03_Conditionals\obj\Debug\_03_Conditionals.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Repository\bin\Debug\_06_RepositoryPattern_Repository.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Repository\bin\Debug\_06_RepositoryPattern_Repository.pdb
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Repository\obj\Debug\_06_RepositoryPattern_Repository.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Repository\obj\Debug\_06_RepositoryPattern_Repository.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Repository\obj\Debug\_06_RepositoryPattern_Repository.pdb

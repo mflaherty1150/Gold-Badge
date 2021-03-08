@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\bin\Debug\_06_RepositoryPattern_Console.exe.config
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\bin\Debug\_06_RepositoryPattern_Console.exe
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\bin\Debug\_06_RepositoryPattern_Console.pdb
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\bin\Debug\_06_RepositoryPattern_Repository.dll
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\bin\Debug\_06_RepositoryPattern_Repository.pdb
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\obj\Debug\_06_RepositoryPattern_Console.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\obj\Debug\_06_RepositoryPattern_Console.csproj.CopyComplete
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\obj\Debug\_06_RepositoryPattern_Console.exe
+C:\Users\User\Source\Repos\_01_TypesAndVariables2\_06_RepositoryPattern_Console\obj\Debug\_06_RepositoryPattern_Console.pdb
